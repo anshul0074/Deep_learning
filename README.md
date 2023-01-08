@@ -1,5 +1,5 @@
 # Deep_learning
-Projects of Deep learning
+Some Projects of Deep learning
 
 Project 1: Tea leaf Disease Classification 
 
